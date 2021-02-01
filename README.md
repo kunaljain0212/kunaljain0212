@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaljain0212&label=Profile%20views&color=0e75b6&style=flat" alt="kunaljain0212" /> </p>
 
-🔭 I’m currently working on **my Portfolio Website.**
+🔭 I’m currently working on **[Primal6](https://github.com/kunaljain0212/primal6-frontend).**
 
 🌱 I’m currently learning **cross platform App Development using Flutter.**
 
