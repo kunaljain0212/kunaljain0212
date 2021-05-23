@@ -11,7 +11,7 @@
 
 📝 I regularly write articles [here](https://blogs.jainkunal.me/).
 
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H6ooLTK5qP-BSj_YC0DKAwwscv2lQ2UK/view?usp=sharing)
+📓 Know about my experiences [Resume](https://drive.google.com/file/d/1H6ooLTK5qP-BSj_YC0DKAwwscv2lQ2UK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
