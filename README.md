@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Jain</h1>
 <h3 align="center">A passionate Web and App Developer from India.</h3>
-<p align="center"><img align="center" src="https://magiccopy.xyz/assets/images/hadder.gif" /></p>
+<!-- <p align="center"><img align="center" src="https://magiccopy.xyz/assets/images/hadder.gif" /></p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kunaljain0212&label=Profile%20views&color=0e75b6&style=flat" alt="kunaljain0212" /> </p>
 <p align="center">
   📫 Reach me out at <b>jainkunal209@gmail.com</b>.
